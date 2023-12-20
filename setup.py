@@ -13,7 +13,7 @@ setup(name='tinygrad',
       author='George Hotz',
       license='MIT',
       long_description=long_description,
-      long_description_content_type='text/markdown',
+      long_description_content_type='text/plain',
       packages = ['tinygrad', 'tinygrad.codegen', 'tinygrad.nn', 'tinygrad.renderer',
                   'tinygrad.runtime', 'tinygrad.runtime.graph', 'tinygrad.shape', 'tinygrad.features'],
       classifiers=[
