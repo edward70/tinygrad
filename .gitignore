@@ -7,7 +7,6 @@ notebooks
 .*.swo
 *.pyc
 *.so
-*.txt
 build
 /dist
 *.egg-info
