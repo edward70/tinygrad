@@ -4,7 +4,7 @@ from pathlib import Path
 from setuptools import setup
 
 directory = Path(__file__).resolve().parent
-with open(directory / 'README.md', encoding='utf-8') as f:
+with open(directory / 'readme.txt', encoding='utf-8') as f:
   long_description = f.read()
 
 setup(name='tinygrad',
